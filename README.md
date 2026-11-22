@@ -1,104 +1,180 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="Badre Elhilali Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Badre Elhilali</h1>
 
 <h3 align="center">
-  Software Engineering Student | DevOps Enthusiast
+  Software Engineering Student | DevOps & .NET Developer
 </h3>
 
 <p align="center">
-  Building, automating and improving the way software is delivered.
+  Passionate about automation, software engineering and teamwork.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Enthusiast;Software+Engineering+Student;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+%26+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=DevOps+%26+Cloud+Enthusiast;ASP.NET+Core+Developer;Building+REST+APIs+%26+Microservices;CI%2FCD+%7C+Docker+%7C+Kubernetes;Always+Learning+and+Improving" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Engineering student in Computer Science at EHEIM, Morocco.
-- 🚀 Passionate about DevOps, Cloud Computing and Software Engineering.
-- ⚙️ Interested in CI/CD pipelines, automation and infrastructure management.
-- 🐳 Working with Docker, Kubernetes, Jenkins and Ansible.
-- 💻 Developing applications with C#, ASP.NET Core, React and Symfony.
+- 🎓 Final-year Computer Science Engineering student at EHEIM, Morocco.
+- 🚀 Interested in DevOps, Cloud Computing and Software Engineering.
+- ⚙️ Working on CI/CD pipelines and infrastructure automation.
+- 💻 Developing backend applications using C# and ASP.NET Core.
+- 🏗️ Interested in REST APIs and microservices architecture.
+- 🐳 Working with Docker, Kubernetes, Jenkins and Helm.
 - 📊 Exploring monitoring and observability with Prometheus and Grafana.
-- 🔐 Interested in DevSecOps, software quality and automation testing.
-- 🌱 Currently learning Terraform, Kubernetes and Cloud technologies.
-- 🤝 I believe in collaboration, knowledge sharing and continuous improvement.
+- 🤝 I believe in teamwork, knowledge sharing and continuous learning.
+- 🎯 Looking for a final-year internship (PFE) starting February 2027.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,js,ts,python" />
-</p>
-
-### Web Development
+### 💻 Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,symfony,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET"/>
 </p>
 
-### DevOps & Cloud
+- C#
+- .NET
+- ASP.NET Core Web API
+- REST APIs
+- Entity Framework Core
+- ADO.NET
+- ASP.NET Core Identity
+- JWT Authentication
+
+### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,linux,git,github,gitlab,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="Frontend Technologies"/>
 </p>
 
-### Monitoring & Security
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### ⚙️ DevOps & Cloud
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,aws,linux,git,github,gitlab" alt="DevOps Technologies"/>
 </p>
 
-### Databases & Tools
+- Docker
+- Kubernetes
+- Jenkins & CI/CD Pipelines
+- Helm
+- Ansible
+- Terraform
+- AWS
+- Argo CD
+- Harbor
+- Linux
+- Git & GitLab
+
+### 📊 Monitoring, Security & Quality
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring Tools"/>
 </p>
+
+- Prometheus
+- Grafana
+- SonarQube
+- Trivy
+- xUnit.net
+- Unit Testing
+- Code Quality
+
+### 🗄️ Databases & Architecture
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,rabbitmq" alt="Databases and Messaging"/>
+</p>
+
+- Microsoft SQL Server
+- MySQL
+- MongoDB
+- SQL
+- RabbitMQ
+- MVC Architecture
+- Microservices
+- SOLID Principles
+- Design Patterns
+- UML
+
+### 🔧 Development & Collaboration Tools
+
+- Visual Studio
+- Visual Studio Code
+- Jira
+- Agile / Scrum
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/guest-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=guest-manager&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/qday">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=qday&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### 1. Freelancing Services Platform
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**Full-Stack .NET | Microservices Architecture**
+
+- Designed and developed a web-based freelancing platform.
+- Built REST APIs using ASP.NET Core Web API.
+- Implemented authentication with JWT and ASP.NET Core Identity.
+- Integrated Entity Framework Core and ADO.NET.
+- Used RabbitMQ for communication between services.
+- Applied SOLID principles and Design Patterns.
+- Containerized services using Docker.
+
+### 2. DevOps CI/CD Pipeline
+
+**Jenkins | Docker | Kubernetes | SonarQube**
+
+- Configured CI/CD pipelines using Jenkins.
+- Automated application builds and deployments.
+- Containerized applications with Docker.
+- Integrated SonarQube for code quality analysis.
+- Worked with Kubernetes and Helm.
+- Explored automated deployment using Argo CD.
+
+### 3. Monitoring & Observability
+
+**Prometheus | Grafana | Kubernetes**
+
+- Deployed a monitoring solution for infrastructure.
+- Configured Prometheus for metrics collection.
+- Used Grafana to visualize monitoring data.
+- Worked with Kubernetes cluster monitoring.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=badreelhilali15-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=badreelhilali15-prog&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=badreelhilali15-prog&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -106,38 +182,47 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+
+  <a href="https://www.linkedin.com/in/badreelhilali-128624271/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+
+  <a href="mailto:badreelhilali15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
+  <a href="tel:+212713798505">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+
+</p>
+
+<p align="center">
+  📧 badreelhilali15@gmail.com
+  <br/>
+  📱 +212 7 13 79 85 05
+  <br/>
+  📍 Morocco 🇲🇦
 </p>
 
 ---
 
 ## 🌍 Languages
 
-- 🇲🇦 Arabic
-- 🇫🇷 French
-- 🇬🇧 English
+- 🇲🇦 Arabic — Native
+- 🇫🇷 French — Professional
+- 🇬🇧 English — Professional
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=badreelhilali15-prog&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <h3 align="center">
   ⭐ Thanks for visiting my profile!
 </h3>
 
-<h4 align="center">
-  Let's connect, collaborate and build something amazing together.
-</h4>
+<p align="center">
+  Let's collaborate, share knowledge and build great things together.
+</p>
